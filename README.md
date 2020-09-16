@@ -1,3 +1,5 @@
 # Peach-sequencer
+![Logo](/peach-sequencer/readme-imgs/logo.png)
 
-![Logo](/logo.png)
+## User friendly interface
+![img](/peach-sequencer/readme-imgs/interface.png)
