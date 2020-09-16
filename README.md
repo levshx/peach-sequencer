@@ -1,3 +1,3 @@
 # Peach-sequencer
 
-![Logo](/logo.png)
+![Logo](/logo.png) MineOS app
