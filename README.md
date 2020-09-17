@@ -1,4 +1,4 @@
-# Peach-sequencer
+# peach-sequencer
 ![Logo](/readme-imgs/logo.png)
 
 ### User friendly interface
